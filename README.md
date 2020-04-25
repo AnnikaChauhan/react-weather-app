@@ -1,3 +1,11 @@
+# React Weather App
+
+This repository was to test building a React Weather App for a practice tech test.
+
+This app was build in React. If you clone this repo down you will need to do a 'yarn install' in the terminal in order to install all of the related packages. You can then do a 'yarn start' to view a demo version of the app as you make changes.
+
+Note: There are supposed to be two of each city as I was testing methods.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
