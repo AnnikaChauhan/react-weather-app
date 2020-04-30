@@ -21,11 +21,11 @@ export default class Weather extends Component {
                     return (<WeatherCard city={city[1]} />)
                    })
                }
-               {
+               {/* {
                    this.state.city.map((city) => {
                        return (<WeatherCard city={city} />)
                    })
-               }
+               } */}
            </section>
         );
     }
